@@ -1,0 +1,15 @@
+.randomiser-section div {
+  margin-top: 48px;
+  margin-bottom: 20px;
+  padding-left: 100px;
+  padding-top: 180px;
+  height: 500px;
+  background-color: beige;
+  font-size: 3rem;
+}
+
+.randomiser-section button {
+  height: 50px;
+  width: 300px;
+  margin: auto;
+}

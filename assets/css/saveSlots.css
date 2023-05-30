@@ -1,0 +1,33 @@
+section.saveSlots {
+  display: grid;
+  grid-template-columns: repeat(4, 150px);
+  grid-gap: 5px;
+  justify-content: end;
+}
+
+.slot-card {
+  background-color: beige;
+  height: 100px;
+  display: grid;
+}
+
+.slot-card__saved {
+    background-color: green;
+}
+
+.slot-card h2 {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.slot-card div {
+  display: grid;
+  grid-template-columns: 75px 75px;
+  place-items: center;
+}
+
+.slot-card div button {
+  width: 65px;
+  height: 30px;
+  margin: 2px 0;
+}

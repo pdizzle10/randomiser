@@ -1,0 +1,18 @@
+.itemsInput-section h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.itemsInput-section form {
+  display: grid;
+}
+
+.itemsInput-section textarea {
+  height: 500px;
+  min-width: 200px;
+  margin-bottom: 20px;
+}
+
+.itemsInput-section button {
+  height: 50px;
+}
